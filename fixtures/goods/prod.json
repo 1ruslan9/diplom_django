@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Лезвия профессиональные",
+            "slug": "lezviya-professionalnye",
+            "description": "Лезвия профессиональныеЛезвия профессиональныеЛезвия профессиональные",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 8
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Спортивный костюм фиолетовый",
+            "slug": "sportivnyj-kostyum-fioletovyj",
+            "description": "Спортивный костюм фиолетовыйСпортивный костюм фиолетовыйСпортивный костюм фиолетовый",
+            "image": "",
+            "price": "93.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Спортивный костюм черный",
+            "slug": "sportivnyj-kostyum-chernyj",
+            "description": "Спортивный костюм черныйСпортивный костюм черныйСпортивный костюм черный",
+            "image": "",
+            "price": "670.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Кофта спортивная фиолетовая",
+            "slug": "kofta-sportivnaya-fioletovaya",
+            "description": "Кофта спортивная фиолетоваяКофта спортивная фиолетоваяКофта спортивная фиолетовая",
+            "image": "",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Лосины черные",
+            "slug": "losiny-chernye",
+            "description": "Лосины черныеЛосины черныеЛосины черные",
+            "image": "",
+            "price": "430.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Перчатки синие",
+            "slug": "perchatki-sinie",
+            "description": "Перчатки синиеПерчатки синиеПерчатки синие",
+            "image": "",
+            "price": "610.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Перчатки черные",
+            "slug": "perchatki-chernye",
+            "description": "Перчатки черныеПерчатки черныеПерчатки черные",
+            "image": "",
+            "price": "55.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Перчатки серые",
+            "slug": "perchatki-serye",
+            "description": "Перчатки серыеПерчатки серыеПерчатки серые",
+            "image": "",
+            "price": "190.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Кофта спортивная черная",
+            "slug": "kofta-sportivnaya-chernaya",
+            "description": "Кофта спортивная чернаяКофта спортивная чернаяКофта спортивная черная",
+            "image": "",
+            "price": "30.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Ботинки ИДЕЯ ОВЕРТУРЕ",
+            "slug": "botinki-ideya-overtyure",
+            "description": "Ботинки ИДЕЯ ОВЕРТУРЕБотинки ИДЕЯ ОВЕРТУРЕБотинки ИДЕЯ ОВЕРТУРЕ",
+            "image": "",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Ботинки РИСПОРТ СКЕЙТС",
+            "slug": "botinki-risport-skejts",
+            "description": "Ботинки РИСПОРТ СКЕЙТСБотинки РИСПОРТ СКЕЙТСБотинки РИСПОРТ СКЕЙТС",
+            "image": "",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Ботинки ИДЕЯ ЧОРУС",
+            "slug": "botinki-ideya-chorus",
+            "description": "Ботинки ИДЕЯ ЧОРУСБотинки ИДЕЯ ЧОРУСБотинки ИДЕЯ ЧОРУС",
+            "image": "",
+            "price": "25.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 7
+        }
+    }
+]

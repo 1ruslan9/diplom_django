@@ -1,0 +1,58 @@
+[
+    {
+        "model": "goods.categories",
+        "pk": 2,
+        "fields": {
+            "name": "Все товары",
+            "slug": "all"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 3,
+        "fields": {
+            "name": "Тренировочный костюм",
+            "slug": "trenirovochnyj-kostyum"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 4,
+        "fields": {
+            "name": "Тренировочная кофта",
+            "slug": "trenirovochnaya-kofta"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 5,
+        "fields": {
+            "name": "Лосины",
+            "slug": "losiny"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 6,
+        "fields": {
+            "name": "Перчатки",
+            "slug": "perchatki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 7,
+        "fields": {
+            "name": "Ботинки",
+            "slug": "botinki"
+        }
+    },
+    {
+        "model": "goods.categories",
+        "pk": 8,
+        "fields": {
+            "name": "Лезвия",
+            "slug": "lezviya"
+        }
+    }
+]
