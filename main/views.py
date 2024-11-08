@@ -15,9 +15,9 @@ def index(request):
 
 def about(request):
     context = {
-        'title': 'ERILIYA - О НАС',
-        'content': "О нас",
-        'text_on_page': "О насО насО насО насО насО наО насО насО насО насО насО насО нас",
+        'title': 'ERILIYA - Про НАС',
+        'content': "Про нас",
+        'text_on_page': "Здесь будет представлена основная описательная информация о нашем интернет-магазине",
     }
 
     return render(request, 'main/about.html', context)

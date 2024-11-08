@@ -1,10 +1,7 @@
 {% load static %}
 {% load goods_tags %}
-
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,7 +18,6 @@
     <link rel="manifest" href="{% static "deps/favicon/site.webmanifest" %}">
     <title>{{ title }}</title>
 </head>
-
 <body>
     <header>
         <nav class="navbar navbar-expand-lg bg-dark" data-bs-theme="dark">
@@ -99,8 +95,6 @@
                         {% for category in categories %}
                             <li><a class="dropdown-item text-white" href="{% url "catalog:index" category.slug %}">{{ category.name }}</a></li>
                         {% endfor %}
-                    
-
                     </ul>
                 </div>
                 <!-- Значек корзины, вызывает модальное окно -->
@@ -185,7 +179,6 @@
                     <!-- Пустой блок на Ваше усмотрение -->
                 </div>
                 <div class="col-lg-10">
-
                     <!-- Контент на странице -->
                      {% include "includes/notifications.html" %}
                     {% block content %}{% endblock %}
@@ -194,13 +187,10 @@
             </div>
         </div>
     </section>
-
     {% block footer %}{% endblock %}
-
     <script src="{% static "deps/js/jquery/jquery-3.7.0.min.js" %}"></script>
     <script src="{% static "deps/js/jquery-events.js" %}"></script>
     <script src="{% static "deps/js/jquery-ajax.js" %}"></script>
     <script src="{% static "deps/js/bootstrap/bootstrap.bundle.min.js" %}"></script>
 </body>
-
 </html>
